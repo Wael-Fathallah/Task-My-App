@@ -13,6 +13,23 @@
 		690E4E981FCF272700B3451A /* Task_My_App.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 690E4E961FCF272700B3451A /* Task_My_App.xcdatamodeld */; };
 		690E4E9A1FCF272700B3451A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 690E4E991FCF272700B3451A /* Assets.xcassets */; };
 		690E4E9D1FCF272700B3451A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 690E4E9B1FCF272700B3451A /* LaunchScreen.storyboard */; };
+		690E4EBA1FCF2C6E00B3451A /* TaskCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690E4EB81FCF2C6E00B3451A /* TaskCell.swift */; };
+		690E4EBB1FCF2C6E00B3451A /* TaskCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 690E4EB91FCF2C6E00B3451A /* TaskCell.xib */; };
+		690E4EBD1FCF2C9F00B3451A /* TaskController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690E4EBC1FCF2C9F00B3451A /* TaskController.swift */; };
+		690E4EBF1FCF2CB600B3451A /* SettingsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690E4EBE1FCF2CB600B3451A /* SettingsController.swift */; };
+		690E4EC11FCF2CDC00B3451A /* MainController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690E4EC01FCF2CDC00B3451A /* MainController.swift */; };
+		690E4EC61FCF518B00B3451A /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690E4EC51FCF518B00B3451A /* String.swift */; };
+		690E4EC81FCF521200B3451A /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690E4EC71FCF521200B3451A /* UIColor.swift */; };
+		690E4ECA1FCF53AE00B3451A /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690E4EC91FCF53AE00B3451A /* Constant.swift */; };
+		690E4ECC1FCF57D800B3451A /* CategoryController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690E4ECB1FCF57D800B3451A /* CategoryController.swift */; };
+		694A01871FCF7E20002F50C5 /* UITableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694A01861FCF7E20002F50C5 /* UITableView.swift */; };
+		694A01891FCFA580002F50C5 /* CategoryVew.xib in Resources */ = {isa = PBXBuildFile; fileRef = 694A01881FCFA57F002F50C5 /* CategoryVew.xib */; };
+		694A018B1FCFA5F4002F50C5 /* CategoryVew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694A018A1FCFA5F4002F50C5 /* CategoryVew.swift */; };
+		694A018D1FCFAADB002F50C5 /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694A018C1FCFAADB002F50C5 /* UIView.swift */; };
+		694A01961FCFD262002F50C5 /* Category+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694A01921FCFD262002F50C5 /* Category+CoreDataClass.swift */; };
+		694A01971FCFD262002F50C5 /* Category+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694A01931FCFD262002F50C5 /* Category+CoreDataProperties.swift */; };
+		694A01981FCFD262002F50C5 /* Task+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694A01941FCFD262002F50C5 /* Task+CoreDataClass.swift */; };
+		694A01991FCFD262002F50C5 /* Task+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694A01951FCFD262002F50C5 /* Task+CoreDataProperties.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +41,23 @@
 		690E4E991FCF272700B3451A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		690E4E9C1FCF272700B3451A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		690E4E9E1FCF272700B3451A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		690E4EB81FCF2C6E00B3451A /* TaskCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskCell.swift; sourceTree = "<group>"; };
+		690E4EB91FCF2C6E00B3451A /* TaskCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TaskCell.xib; sourceTree = "<group>"; };
+		690E4EBC1FCF2C9F00B3451A /* TaskController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskController.swift; sourceTree = "<group>"; };
+		690E4EBE1FCF2CB600B3451A /* SettingsController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsController.swift; sourceTree = "<group>"; };
+		690E4EC01FCF2CDC00B3451A /* MainController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainController.swift; sourceTree = "<group>"; };
+		690E4EC51FCF518B00B3451A /* String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
+		690E4EC71FCF521200B3451A /* UIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
+		690E4EC91FCF53AE00B3451A /* Constant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		690E4ECB1FCF57D800B3451A /* CategoryController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryController.swift; sourceTree = "<group>"; };
+		694A01861FCF7E20002F50C5 /* UITableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITableView.swift; sourceTree = "<group>"; };
+		694A01881FCFA57F002F50C5 /* CategoryVew.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CategoryVew.xib; sourceTree = "<group>"; };
+		694A018A1FCFA5F4002F50C5 /* CategoryVew.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryVew.swift; sourceTree = "<group>"; };
+		694A018C1FCFAADB002F50C5 /* UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
+		694A01921FCFD262002F50C5 /* Category+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Category+CoreDataClass.swift"; sourceTree = "<group>"; };
+		694A01931FCFD262002F50C5 /* Category+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Category+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		694A01941FCFD262002F50C5 /* Task+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Task+CoreDataClass.swift"; sourceTree = "<group>"; };
+		694A01951FCFD262002F50C5 /* Task+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Task+CoreDataProperties.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +90,10 @@
 		690E4E8E1FCF272700B3451A /* Task My App */ = {
 			isa = PBXGroup;
 			children = (
+				690E4EC21FCF509C00B3451A /* Extension */,
+				690E4EB71FCF2BED00B3451A /* View */,
+				690E4EB61FCF2BD900B3451A /* Controller */,
+				690E4EAC1FCF296100B3451A /* Model */,
 				690E4E8F1FCF272700B3451A /* AppDelegate.swift */,
 				690E4E911FCF272700B3451A /* ViewController.swift */,
 				690E4E931FCF272700B3451A /* Main.storyboard */,
@@ -65,6 +103,59 @@
 				690E4E961FCF272700B3451A /* Task_My_App.xcdatamodeld */,
 			);
 			path = "Task My App";
+			sourceTree = "<group>";
+		};
+		690E4EAC1FCF296100B3451A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				690E4EAD1FCF298500B3451A /* CoreData */,
+				690E4EC91FCF53AE00B3451A /* Constant.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		690E4EAD1FCF298500B3451A /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				694A01921FCFD262002F50C5 /* Category+CoreDataClass.swift */,
+				694A01931FCFD262002F50C5 /* Category+CoreDataProperties.swift */,
+				694A01941FCFD262002F50C5 /* Task+CoreDataClass.swift */,
+				694A01951FCFD262002F50C5 /* Task+CoreDataProperties.swift */,
+			);
+			path = CoreData;
+			sourceTree = "<group>";
+		};
+		690E4EB61FCF2BD900B3451A /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				690E4EBC1FCF2C9F00B3451A /* TaskController.swift */,
+				690E4EBE1FCF2CB600B3451A /* SettingsController.swift */,
+				690E4EC01FCF2CDC00B3451A /* MainController.swift */,
+				690E4ECB1FCF57D800B3451A /* CategoryController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		690E4EB71FCF2BED00B3451A /* View */ = {
+			isa = PBXGroup;
+			children = (
+				690E4EB81FCF2C6E00B3451A /* TaskCell.swift */,
+				690E4EB91FCF2C6E00B3451A /* TaskCell.xib */,
+				694A01881FCFA57F002F50C5 /* CategoryVew.xib */,
+				694A018A1FCFA5F4002F50C5 /* CategoryVew.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		690E4EC21FCF509C00B3451A /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				690E4EC51FCF518B00B3451A /* String.swift */,
+				690E4EC71FCF521200B3451A /* UIColor.swift */,
+				694A01861FCF7E20002F50C5 /* UITableView.swift */,
+				694A018C1FCFAADB002F50C5 /* UIView.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,8 +217,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				690E4EBB1FCF2C6E00B3451A /* TaskCell.xib in Resources */,
 				690E4E9D1FCF272700B3451A /* LaunchScreen.storyboard in Resources */,
 				690E4E9A1FCF272700B3451A /* Assets.xcassets in Resources */,
+				694A01891FCFA580002F50C5 /* CategoryVew.xib in Resources */,
 				690E4E951FCF272700B3451A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,8 +233,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				690E4E981FCF272700B3451A /* Task_My_App.xcdatamodeld in Sources */,
+				694A01981FCFD262002F50C5 /* Task+CoreDataClass.swift in Sources */,
+				690E4EBD1FCF2C9F00B3451A /* TaskController.swift in Sources */,
+				690E4EBA1FCF2C6E00B3451A /* TaskCell.swift in Sources */,
+				694A01991FCFD262002F50C5 /* Task+CoreDataProperties.swift in Sources */,
+				690E4EC61FCF518B00B3451A /* String.swift in Sources */,
+				690E4ECA1FCF53AE00B3451A /* Constant.swift in Sources */,
+				690E4EBF1FCF2CB600B3451A /* SettingsController.swift in Sources */,
+				694A018B1FCFA5F4002F50C5 /* CategoryVew.swift in Sources */,
+				690E4EC11FCF2CDC00B3451A /* MainController.swift in Sources */,
+				690E4EC81FCF521200B3451A /* UIColor.swift in Sources */,
+				690E4ECC1FCF57D800B3451A /* CategoryController.swift in Sources */,
 				690E4E921FCF272700B3451A /* ViewController.swift in Sources */,
+				694A01871FCF7E20002F50C5 /* UITableView.swift in Sources */,
+				694A018D1FCFAADB002F50C5 /* UIView.swift in Sources */,
+				694A01961FCFD262002F50C5 /* Category+CoreDataClass.swift in Sources */,
 				690E4E901FCF272700B3451A /* AppDelegate.swift in Sources */,
+				694A01971FCFD262002F50C5 /* Category+CoreDataProperties.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,6 +409,7 @@
 				690E4EA31FCF272700B3451A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
